@@ -28,7 +28,7 @@ models:
 
     config:
       contract:
-        enforced: false
+        enforced: true
 
     columns:
       - name: user_id
